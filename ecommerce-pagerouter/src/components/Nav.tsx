@@ -8,7 +8,7 @@ import SearchBar from './SearchBar'
 export default function Nav() {
 
   return (
-    <nav className="navbar navbar-expand-lg bg-body-tertiary fixed-top">
+    <nav className="navbar navbar-expand-lg bg-body-tertiary">
       <div className="container-fluid">
 
         {/* Logo */}
